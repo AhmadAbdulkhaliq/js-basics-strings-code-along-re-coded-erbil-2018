@@ -8,3 +8,4 @@ const upperCaseCurrentUser = currentUser.toUpperCase();
 const excitedWelcomeMessage='WELCOME TO FLATBOOK, '+upperCaseCurrentUser+ '!';
 
 const shortGreeting='Welcome, '
+
