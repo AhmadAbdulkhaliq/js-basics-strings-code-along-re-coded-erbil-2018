@@ -7,8 +7,6 @@ const upperCaseCurrentUser = currentUser.toUpperCase();
 
 const excitedWelcomeMessage='WELCOME TO FLATBOOK, '+upperCaseCurrentUser+ '!';
 
-const shortGreeting='Welcome, '
-
  const firstInitial = currentUser[0];
  const restOfName = currentUser.slice(1);
 
